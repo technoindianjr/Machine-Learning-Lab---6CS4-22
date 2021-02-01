@@ -2,7 +2,17 @@
 
 ## COURSE DESCRIPTION
 
-Machine Learning is concerned with computer programs that automatically improve their performance through experience. This course covers the theory and practical algorithms for machine learning from a variety of perspectives. We cover topics such as FIND-S, Candidate Elimination Algorithm, Decision tree (ID3 Algorithm), Backpropagation Algorithm, Naïve Bayesian classifier, Bayesian Network, k-Means Algorithm, k-Nearest Neighbour Algorithm, Locally Weighted Regression Algorithm.
+Machine Learning is concerned with computer programs that automatically improve their performance through experience. This course covers the theory and practical algorithms for machine learning from a variety of perspectives. We cover topics such as: 
+
+. FIND-S, 
+. Candidate Elimination Algorithm, 
+. Decision tree (ID3 Algorithm), 
+. Backpropagation Algorithm, 
+. Naïve Bayesian classifier, 
+. Bayesian Network, 
+. k-Means Algorithm, 
+. k-Nearest Neighbour Algorithm, 
+. Locally Weighted Regression Algorithm
 
 ### COURSE OBJECTIVES
 
