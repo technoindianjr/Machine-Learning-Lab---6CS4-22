@@ -7,6 +7,7 @@ Machine Learning is concerned with computer programs that automatically improve 
 ### COURSE OBJECTIVES
 
 This course will enable students to,
+
 	1.	Make use of Data sets in implementing the machine learning algorithms
 	2.	Implement the machine learning concepts and algorithms in any suitable language of choice.
 
@@ -14,6 +15,7 @@ This course will enable students to,
 ### COURSE OUTCOMES
 
 After studying this course, the students will be able to
+
 	1.	Understand the implementation procedures for the machine learning algorithms
 	2.	Design Java/Python programs for various Learning algorithms. 
 	3.	Apply appropriate data sets to the Machine Learning algorithms 
